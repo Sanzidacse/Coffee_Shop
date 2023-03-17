@@ -1,6 +1,12 @@
 # coffee_shop
 
-A new Flutter project.
+    A coffee shop is a place that holds millions of memories.
+ 
+https://user-images.githubusercontent.com/108629629/225943956-d897fef9-76ea-411b-8216-fa665cf700c2.mp4
+
+
+![Screenshot 2023-03-17 210355](https://user-images.githubusercontent.com/108629629/225944006-e78775b7-b586-4ce9-b863-aa341314a086.png)
+
 
 ## Getting Started
 
